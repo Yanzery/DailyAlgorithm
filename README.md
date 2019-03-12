@@ -1,2 +1,2 @@
 # DailyAlgorithm
-每日算法
+用JavaScript 实现 《剑指offer》 算法。 
