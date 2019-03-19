@@ -24,3 +24,10 @@ function minNumberInRotateArray(rotateArray)
         return rotateArray[first];
     }
 }
+
+
+//tips：
+/*
+排序的数组（或者部分排序的数组）中查找一个数字或者统计某个数字出现的次数
+都可以尝试用二分查找算法。
+ */
